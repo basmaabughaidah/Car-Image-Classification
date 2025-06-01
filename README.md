@@ -19,10 +19,12 @@ This project uses Convolutional Neural Networks (CNN) to classify images of cars
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Car-Image-Classification.git
-   cd Car-Image-Classification
+Clone this repository:
+
+```bash
+git clone https://github.com/basmaabughaidah/Car-Image-Classification.git
+cd Car-Image-Classification
+
 Install the required libraries:
 pip install -r requirements.txt
 
